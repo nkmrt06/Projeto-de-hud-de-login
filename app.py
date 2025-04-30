@@ -8,8 +8,8 @@ def validar_login():
     usuario = campo_usuario.get()
     senha = campo_senha.get()
 
-    #Verificar se o usuario é Mariana e a senha 1612
-    if usuario =='Mariana' and senha == '1612':
+    #Verificar se o usuario é Nikolas e a senha teste123
+    if usuario =='Nikolas' and senha == 'teste123':
         resultado_login.configure(text='Login feito com sucesso!', text_color='green')
     else:
         resultado_login.configure(text='Login incorreto',text_color='red')
