@@ -1,8 +1,7 @@
 # ✅ Hud de LOGIN
 
-# 📚 Organizador de Estudos com Python + MySQL + CustomTkinter
 
-Organize e visualize seus estudos com uma interface moderna, banco de dados e gráficos!
+Hud de login simples, servindo como teste para outros projetos pessoais.
 
 ---
 
